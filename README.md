@@ -1,6 +1,6 @@
 <body>
   <header>
-    <h1>SOC and SOAR Specialist with AI/ML</h1>
+    <h1>SOC and SOAR Autoamtion Engineer | AI x Cybersecurity</h1>
     <div class="badges">
       <img src="https://img.shields.io/badge/Experience-6.5%2B%20Years-orange" alt="Experience">
       <img src="https://img.shields.io/badge/SOAR-XSOAR%20%7C%20Sentinel%20%7C%20XSIAM-success" alt="SOAR">
