@@ -18,7 +18,7 @@ Below are some of my notable open-source projects that reflect my expertise and 
 ## Projects
 
 <table>
-  <tr><td>
+<tr><td>
 
 ### [NLP Based Phishing Email Detector](https://github.com/GauravCyberAI/Phishing-Emails-Detection-Using-Natural-Language-Processing-NLP-Techniques)
 The static email features can be easily manipulated by skilled attackers. As a result, my research proposes an advanced solution for identifying phishing attempts that goes beyond traditional static email features. By analysing the content of emails, we aim to create a more robust and reliable method for detecting phishing attempts using different NLP techniques such as,
